@@ -7,7 +7,6 @@ C:\Code\practical-test\MarsRover\MarsRover\obj\Debug\MarsRover.pdb
 C:\Code\Others\MarsRover\MarsRover\MarsRover\bin\Debug\MarsRover.exe.config
 C:\Code\Others\MarsRover\MarsRover\MarsRover\bin\Debug\MarsRover.exe
 C:\Code\Others\MarsRover\MarsRover\MarsRover\bin\Debug\MarsRover.pdb
-C:\Code\Others\MarsRover\MarsRover\MarsRover\obj\Debug\MarsRover.csproj.AssemblyReference.cache
 C:\Code\Others\MarsRover\MarsRover\MarsRover\obj\Debug\MarsRover.csproj.CoreCompileInputs.cache
 C:\Code\Others\MarsRover\MarsRover\MarsRover\obj\Debug\MarsRover.exe
 C:\Code\Others\MarsRover\MarsRover\MarsRover\obj\Debug\MarsRover.pdb
